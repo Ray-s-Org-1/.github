@@ -1,5 +1,6 @@
 {
-  "name": "My first org template for Rays-org",
-  "description": "template for test",
-  
+  "name": "KodeKloud Demo Organization NodeJS CI",
+  "description": "Starter workflow for Node.js projects.",
+  "iconName": "kode-kloud-icon",
+  "categories": ["NPM Config"]
 }
