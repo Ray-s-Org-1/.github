@@ -1,0 +1,10 @@
+{
+  "name": "My first org template for Rays-org",
+  "description": "template for test",
+  "iconName": "example-icon",
+  "categories": [
+    "Python"
+  ],
+  "filePatterns": [],
+  
+}
